@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{51F47CDB-B3E5-4199-B932-5E99E9C605E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{48F71B49-8A0A-4BDA-B92F-CCDEAC673DE8}"
+	ProjectSection(SolutionItems) = preProject
+		data.json = data.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F47CDB-B3E5-4199-B932-5E99E9C605E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F47CDB-B3E5-4199-B932-5E99E9C605E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F47CDB-B3E5-4199-B932-5E99E9C605E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F47CDB-B3E5-4199-B932-5E99E9C605E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7495D5E-B2AF-48DE-8A84-70F5A8B82861}
+	EndGlobalSection
+EndGlobal
