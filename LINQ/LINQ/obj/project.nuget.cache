@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "walPlKFu43Xo+xztW13TWmiMyi9Q0nYk0dk4pQq4q65w7ESlAePsY5uxUy+E9GoobeQGeTmJrRtz/qqTjydeFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\VS projects\\LINQ\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
